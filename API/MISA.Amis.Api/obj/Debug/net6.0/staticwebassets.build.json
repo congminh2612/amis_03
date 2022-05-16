@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZJCGriDEatYnQmnO4jqNiQ2uJLh1RL2BrwlIlwJch5s=",
+  "Source": "MISA.Amis.Api",
+  "BasePath": "_content/MISA.Amis.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
